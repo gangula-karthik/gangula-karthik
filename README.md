@@ -9,8 +9,8 @@ I also do some competitive programming:
 
 
 
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangula-karthik&show_icons=true&theme=dark)
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangula-karthik&show_icons=true&heme=gotham)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangula-karthik&layout=compact&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gangula-karthik&layout=compact&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 
