@@ -1,6 +1,5 @@
-# HELLO EVERYONE
-## INTRODUCTION
-my name is karthik
+# HELLO WORLD
+My name is Karthik
 I like to work on cool projects and watch anime and tv shows in my free time. 
 
 I also do some competitive programming:
