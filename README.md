@@ -4,6 +4,7 @@ my name is karthik
 I like to work on cool projects and watch anime and tv shows in my free time. 
 
 I also do some competitive programming:
+
 <a target="_blank" href="https://www.codewars.com/users/gangula-karthik"><img src="https://www.codewars.com/users/gangula-karthik/badges/large"></a>
 
 
