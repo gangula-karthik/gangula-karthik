@@ -1,7 +1,7 @@
 # HELLO WORLD 👋
-My name is Karthik
+My name is Karthik.
 I like to work on cool projects 👨‍💻 
-and watch anime and tv shows 📺 in my free time. 
+,watch anime and tv shows 📺 in my free time. 
 
 I also do some competitive programming:
 
