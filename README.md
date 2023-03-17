@@ -6,7 +6,6 @@ I like to work on cool projects 👨‍💻
 I also do some competitive programming:
 
 <a target="_blank" href="https://www.codewars.com/users/gangula-karthik"><img src="https://www.codewars.com/users/gangula-karthik/badges/large"></a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="3f7639bb-3026-4af2-8744-017f6777658a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 
 
