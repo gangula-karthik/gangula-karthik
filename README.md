@@ -13,4 +13,4 @@ I also do some competitive programming:
 | ------------- | ------------- |
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,bootstrap,html,css,js,figma,flask,postman,py,react,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,vim,bootstrap,html,css,js,react,figma,py,flask,postman)](https://skillicons.dev)
