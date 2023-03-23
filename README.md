@@ -14,3 +14,12 @@ I also do some competitive programming:
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,vim,bootstrap,html,css,js,react,figma,py,flask,postman)](https://skillicons.dev)
+
+## Skills
+
+| Cloud & DevOps | Web Development | Design  | Other   |
+| -------------- | --------------- | ------- | ------- |
+| ![AWS](https://skillicons.dev/icons?i=aws) | ![HTML](https://skillicons.dev/icons?i=html) | ![Figma](https://skillicons.dev/icons?i=figma) | ![Bash](https://skillicons.dev/icons?i=bash) |
+|                | ![CSS](https://skillicons.dev/icons?i=css) | | ![Vim](https://skillicons.dev/icons?i=vim) |
+|                | ![JavaScript](https://skillicons.dev/icons?i=js) | | |
+|
