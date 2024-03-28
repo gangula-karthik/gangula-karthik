@@ -1,9 +1,6 @@
 # HELLO WORLD 👋
 My name is Karthik.
-I like to work on cool projects 👨‍💻 
-,watch anime and tv shows 📺 in my free time. 
-
-I also do some competitive programming:
+I'm interning at SAS as a machine learning engineer, gaining hands-on experience in machine learning technologies. In my free time, I like to work on cool projects 👨‍💻, watch anime and TV shows 📺, and engage in competitive programming.
 
 <a target="_blank" href="https://www.codewars.com/users/gangula-karthik"><img src="https://www.codewars.com/users/gangula-karthik/badges/large"></a>
 
