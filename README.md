@@ -10,4 +10,4 @@ I'm interning at SAS as a machine learning engineer, gaining hands-on experience
 | ------------- | ------------- |
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,vim,bootstrap,html,css,js,react,figma,py,flask,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,pytorch,sklearn,mongodb,aws,github,gitlab,bash,fastapi,flask,postman,react,nextjs,js,ts)](https://skillicons.dev)
