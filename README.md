@@ -1,6 +1,6 @@
 # HELLO WORLD 👋
 My name is Karthik.
-I'm interning as an ML research intern at NUS school of medicine, gaining hands-on experience in machine learning technologies. In my free time, I like to work on cool projects 👨‍💻, watch anime and TV shows 📺, and engage in competitive programming.
+I'm interning as an HPC intern at NSCC SG, gaining hands-on experience on ml systems. In my free time, I like to work on cool projects 👨‍💻, watch anime and TV shows 📺, and engage in competitive programming.
 
 <a target="_blank" href="https://www.codewars.com/users/gangula-karthik"><img src="https://www.codewars.com/users/gangula-karthik/badges/large"></a>
 
